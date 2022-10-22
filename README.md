@@ -7,5 +7,5 @@
 Collection of DSA solutions of famous DSA problems. Feel free to star & fork.
 
 
-DSA solutions must be written in Python, Java, C or C++.
+DSA solutions must be written in any one of these languages - Python, Java, C or C++.
 If you want to add a new solution, please open a Pull Request.
